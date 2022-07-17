@@ -27,7 +27,7 @@
 </div>
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vivekgupta6534294&show_icons=true&locale=en" alt="vivekgupta6534294" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vivekgupta6534294&show_icons=true&locale=en" alt="vivekgupta6534294" /></p> -->
 <br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vivekgupta6534294&" alt="vivekgupta6534294" /></p>
