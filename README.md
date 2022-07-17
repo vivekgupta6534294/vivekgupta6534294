@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vivek Gupta</h1>
 <h3 align="center">Being a great lover of coding, I love to learn new technologies right now I am Full Stack Web development along with DSA Practice</h3>
+<img src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivekgupta6534294&label=Profile%20views&color=0e75b6&style=flat" alt="vivekgupta6534294" /> </p>
 
